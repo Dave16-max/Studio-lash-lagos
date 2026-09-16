@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen bg-[#fdfbf7] text-[#1a1a1a]">
       <nav className="flex justify-between items-center p-6 max-w-7xl mx-auto">
         <h1 className="font-bold tracking-widest text-xl">STUDIO LASH • LAGOS</h1>
-        <a href="https://wa.me/2340000000000" className="bg-black text-white px-6 py-2 rounded-full text-sm">Book Now</a>
+        <a href="https://wa.me/2348101628395" className="bg-black text-white px-6 py-2 rounded-full text-sm">Book Now</a>
       </nav>
 
       <section className="max-w-7xl mx-auto px-6 py-16 md:py-28 grid md:grid-cols-2 gap-12 items-center">
@@ -12,7 +12,7 @@ export default function Home() {
           <h2 className="text-5xl md:text-7xl font-light leading-[0.9] mb-6">Lashes that<br/><span className="italic font-serif">speak luxury</span></h2>
           <p className="text-gray-600 mb-8 max-w-md">Premium lash extensions, brow sculpting & soft glam. Clean studio, soft hands, long-lasting retention.</p>
           <div className="flex gap-4">
-            <a href="https://wa.me/2340000000000" className="bg-black text-white px-8 py-4 rounded-full">WhatsApp Booking</a>
+            <a href="https://wa.me/2348101628395" className="bg-black text-white px-8 py-4 rounded-full">WhatsApp Booking</a>
             <a href="#services" className="border border-black px-8 py-4 rounded-full">View Menu</a>
           </div>
         </div>
